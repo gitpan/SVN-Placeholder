@@ -1,0 +1,20 @@
+=head1 NAME
+
+SVN::Core
+
+=head1 DESCRIPTION
+
+If you are looking for SVN::Core, it gets built with the Subversion binaries 
+on your system, and is not available on CPAN.
+
+You need to specify at configure time if it should be built and installed.  If
+your OS app packaging didn't do that for you then check
+
+  http://svn.collab.net/repos/svn/trunk/subversion/bindings/swig/INSTALL
+
+=head1 AUTHOR
+
+This file written by Ash Berlin after a email thread on london.pm about this
+very subject.
+
+=cut
